@@ -1,11 +1,7 @@
 ﻿Imports System.Drawing.Drawing2D
 
-Public Class Tema2
-
-End Class
 'INSPIRERT AV https://creativemarket.com/ryanvsclark/7242-Flat-Stroke-UI-Kit
 'Flat Stroke UI Kit av Ryan vs. Clark(https://creativemarket.com/ryanvsclark)
-
 
 Class RundKnapp
     Inherits Control
